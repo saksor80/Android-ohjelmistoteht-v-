@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Drinks Application</string>
+    <string name="glass_text">Glass:</string>
+    <string name="instructions_text">Instructions:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="review_button">Send review</string>
+    <string name="review_text">Review drink:</string>
+    <string name="radioButton1">1</string>
+    <string name="radioButton2">2</string>
+    <string name="radioButton3">3</string>
+    <string name="radioButton4">4</string>
+    <string name="radioButton5">5</string>
+    <string name="rating_text">Rating:</string>
+    <string name="rating_result_text">0</string>
+</resources>
